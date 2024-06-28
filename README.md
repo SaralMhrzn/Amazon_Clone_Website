@@ -1,2 +1,4 @@
 # Amazon_Clone_Website
-Developed a static clone of the Amazon website using HTML and CSS. The project focuses on replicating the visual design and layout of the Amazon homepage and various product pages. The website includes features such as a header with navigation links, product listings, and a footer. Note: The website is not responsive and does not include dynamic functionality or backend integration.
+Developed a static clone of the Amazon website using HTML and CSS. 
+The project focuses on replicating the visual design and layout of the Amazon homepage. 
+Note: The website is not responsive and does not include dynamic functionality or backend integration.
